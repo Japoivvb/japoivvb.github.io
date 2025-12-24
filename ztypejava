@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+			<title>Java Keywords</title>
+		</head>
+		<body>
+			<p>Java zType</p>
+			<p>class object</p>
+			<p>main private return</p>
+			<p>getter setter if for</p>
+			<p>arraylist add get contains remove</p>
+			<p>new static import package public</p>
+			<p>attribute method switch increment decrement</p>
+			<p>int double boolean char String float</p>
+			<p>while dowhile break continue iteration foreach for</p>
+			<p>this constructor instance reference null super default new</p>
+			<p>void null this super instanceof try catch finally</p>			
+			<p>while do break continue enum interface implements extends</p>			
+			<p>throw throws exception error assert synchronized volatile transient</p>			
+			<p>abstract final override overload constructor destructor lambda stream</p>			
+			<p>scanner system out println printf input output console</p>			
+			<p>file io reader writer buffer inputstream outputstream path</p>			
+			<p>thread runnable sleep wait notify notifyall concurrency parallel</p>			
+			<p>equals hashcode tostring compare comparable comparator sort collections</p>			
+			<p>list set map hashmap treemap linkedlist treeset queue</p>			
+			<p>optional predicate function consumer supplier stream filter map reduce</p>			
+			<p>annotation deprecated suppresswarnings functionalinterface serializable cloneable</p>			
+			<p>jvm jre jdk bytecode compile runtime garbagecollector heap stack</p>			
+			<p>module requires exports opens uses provides service loader reflection</p>			
+			<p>jdbc connection statement preparedstatement resultset transaction commit rollback</p>			
+			<p>spring boot controller service repository dependency injection autowired</p>			
+			<p>hibernate entity table column id generatedvalue onetomany manytoone</p>			
+			<p>rest api get post put delete request response json</p>
+		</body>
+	</html>
